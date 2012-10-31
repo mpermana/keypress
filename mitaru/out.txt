@@ -1,0 +1,189 @@
+Microsoft (R) COFF/PE Dumper Version 10.00.30319.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file Config.dll
+
+File Type: DLL
+
+  Section contains the following exports for Config.dll
+
+    00000000 characteristics
+    4F0E12A3 time date stamp Wed Jan 11 14:52:19 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001150 CreateModule
+
+Dump of file Console.dll
+
+File Type: DLL
+
+  Section contains the following exports for Console.dll
+
+    00000000 characteristics
+    4F0E12DE time date stamp Wed Jan 11 14:53:18 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001240 CreateModule
+
+Dump of file Controls.dll
+
+File Type: DLL
+
+  Section contains the following exports for Controls.dll
+
+    00000000 characteristics
+    4F0E12E4 time date stamp Wed Jan 11 14:53:24 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001100 CreateModule
+
+Dump of file Data.dll
+
+File Type: DLL
+
+  Section contains the following exports for Data.dll
+
+    00000000 characteristics
+    4F0E12C9 time date stamp Wed Jan 11 14:52:57 2012
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000013F0 ?EDll1Function@@YGXXZ
+          1    1 00001400 CreateModule
+
+Dump of file Directx.dll
+
+File Type: DLL
+
+  Section contains the following exports for Directx.dll
+
+    00000000 characteristics
+    4F0E12EE time date stamp Wed Jan 11 14:53:34 2012
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00002050 ?EDll1Function@@YGXXZ
+          1    1 00002060 CreateModule
+
+Dump of file ExtensionManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for ExtensionManager.dll
+
+    00000000 characteristics
+    4F0E12D2 time date stamp Wed Jan 11 14:53:06 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001380 CreateModule
+
+Dump of file FFACEV.dll
+
+File Type: DLL
+
+  Section contains the following exports for FFACEV.dll
+
+    00000000 characteristics
+    4F0E129B time date stamp Wed Jan 11 14:52:11 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001EB0 ?EDll1Function@@YGXXZ
+
+Dump of file Logging.dll
+
+File Type: DLL
+
+  Section contains the following exports for Logging.dll
+
+    00000000 characteristics
+    4F0E12EC time date stamp Wed Jan 11 14:53:32 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001000 CreateModule
+
+Dump of file LuaCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for LuaCore.dll
+
+    00000000 characteristics
+    4F0E12AD time date stamp Wed Jan 11 14:52:29 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000013C0 CreateModule
+
+Dump of file Resources.dll
+
+File Type: DLL
+
+  Section contains the following exports for Resources.dll
+
+    00000000 characteristics
+    4F0E12AD time date stamp Wed Jan 11 14:52:29 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000021F0 CreateModule
+
+  Summary
+
+        1000 .SHAREDM
+        F000 .data
+        1000 .data1
+       1E000 .rdata
+       13000 .reloc
+        C000 .rsrc
+       82000 .text
+        3000 BSS
+       57000 CODE
+        6000 DATA
+        1000 SHARED

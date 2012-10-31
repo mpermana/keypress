@@ -1,0 +1,25 @@
+enter
+sleep 2000
+enter
+sleep 2000
+enter
+sleep 2000
+enter
+sleep 2000
+
+down
+down
+enter
+sleep 1000
+enter
+sleep 1000
+right
+right
+right
+enter
+sleep 1000
+right
+enter
+sleep 500
+up
+enter

@@ -1,0 +1,6 @@
+/echo tarutaru - ws.txt
+/ws "tachi: kasha" <t>
+#/ws "tachi: shoha" <t>
+#/ws resolution <t>
+#/ws evisceration <t>
+#/ws "vorpal blade" <t>

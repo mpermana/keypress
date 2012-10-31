@@ -1,0 +1,1 @@
+mitaru -synth "lightng. crystal,giant stinger:2" -loop 

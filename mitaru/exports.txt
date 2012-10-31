@@ -1,0 +1,171 @@
+Microsoft (R) COFF/PE Dumper Version 10.00.30319.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file FFACE.dll
+
+File Type: DLL
+
+  Section contains the following exports for ÓŒQòCQ*bw”cMk?Ìş’}ï¦ª&l­ÀÅM»Ì:M š®.¿5Ylú²&*£¾¥‡¯¦´<Ã°i?÷¡i>Ç4—l'Ï˜³¢rNr÷@3gkZÿ×l o€¯TâK@¸öúå®­«ôÜø¸ˆ‡>Èq¾¨p©>e_Qµ·Ar¡oÍ†H‹v5›¡U/î)kUÇE|øá\íıÒ½j€›Qf­ppIæÜhëÉR	ıÌ?Œh–IA…°Êah¥Ñáê‡Ó²îQe¸|_	qÙPÿÍêdáiRâ”¥'ç”EÈ¬Š„b_ÎKÓ†ˆ†çqµ5&q‘zÎRš3…W@cŠææMß±Z=äRá·zkñx˜ébÂišF7çÜpÕ)OŸA»Œ§š;"Ür	äĞ|Óãjo#V Ì<7®EÀƒ¸­ÜÔ8¿2"lh›ÿ—›ÆHq‡#³nC’Àè|ÜÇ@Hv‹wTfgŸõîò¤ñ¾‘¿‡Üz)UÇò60“Xd¯W»äÑ_ı~Ótv‡œ°æE¡ìz¡×O_o‘Ìù9i¿æ¥±J;Ë‹|Í^L4Ú«E-“@Ì¾t·Üê¤‹`2\3¼<Ü`#õ¨Šÿ½ruJ]Æ˜ÔNQf\³&jj½‘´Ÿóm6NÎ"*áVæV}a¦eYä¶„eçİıô6üyå«A_r¤ä++æùŞïÈU
+ü}”ÉÄå¬Ï´¦ß–“ kª£^Ş
+E;ney9k‡Sú„İ¢¸ï	^<(¢L\È†öÚáTDG&BNËâAw?­)NyíÎB3Í8L#šÆé)áÈŞÉ›m~0A`ù{Y‚²,¨]1hÙ~Ş¦ãŒĞ›Ë¾°‹Ì ±7êPQ:¢¤7í™b‡ÓL£è×»¯}¹Ş¶
+
+    00000000 characteristics
+    4C9788C1 time date stamp Mon Sep 20 09:16:01 2010
+        0.00 version
+           1 ordinal base
+         144 number of functions
+         144 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001530 ??0FFACE@@QAE@ABV0@@Z
+          2    1 00004700 ??0FFACE@@QAE@K@Z
+          3    2 00004DD0 ??1FFACE@@QAE@XZ
+          4    3 00001650 ??4FFACE@@QAEAAV0@ABV0@@Z
+          5    4 00005130 ?ACCESSLOCK@FFACE@@QAEXXZ
+          7    5 00006220 ?BlockInput@FFACE@@QAEX_N@Z
+         28    6 00005010 ?CheckReg@FFACE@@AAEHHHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+         30    7 00005180 ?CreateTextObject@FFACE@@QAEXPAD@Z
+         32    8 00005280 ?DeleteTextObject@FFACE@@QAEXPAD@Z
+         35    9 00005F70 ?FlushCommands@FFACE@@QAEXXZ
+         36    A 00004F20 ?ForceUpdate@FFACE@@QAEXH@Z
+         40    B 00006440 ?GetArg@FFACE@@QAEXHPAD@Z
+         41    C 00006410 ?GetArgCount@FFACE@@QAEHXZ
+        112    D 000063E0 ?IsNewCommand@FFACE@@QAEHXZ
+        120    E 000062F0 ?SendString@FFACE@@QAEXPAD@Z
+        121    F 00005C40 ?SetBGBorderSize@FFACE@@QAEXPADM@Z
+        122   10 00005B10 ?SetBGColor@FFACE@@QAEXPADEEEE@Z
+        123   11 00005D50 ?SetBGVisibility@FFACE@@QAEXPAD_N@Z
+        124   12 000058F0 ?SetBold@FFACE@@QAEXPAD_N@Z
+        125   13 000056A0 ?SetColor@FFACE@@QAEXPADEEEE@Z
+        128   14 00005590 ?SetFont@FFACE@@QAEXPAD0H@Z
+        129   15 00005A00 ?SetItalic@FFACE@@QAEXPAD_N@Z
+        130   16 00006130 ?SetKey@FFACE@@QAEXE_N@Z
+        131   17 000057D0 ?SetLocation@FFACE@@QAEXPADMM@Z
+        134   18 00005E60 ?SetRightJustified@FFACE@@QAEXPAD_N@Z
+        136   19 00005380 ?SetText@FFACE@@QAEXPAD0@Z
+        138   1A 00005480 ?SetVisibility@FFACE@@QAEXPAD_N@Z
+        142   1B 000050D0 ?VERSIONLOCK@FFACE@@QAEXXZ
+        143   1C 00001520 ?bes@FFACE@@QAEHXZ
+        144   1D 00004ED0 ?smr@FFACE@@QAEHXZ
+          6   1E 000038E0 Access
+          8   1F 00003B50 CCHGetArg
+          9   20 00003B10 CCHGetArgCount
+         10   21 00003AD0 CCHIsNewCommand
+         11   22 00003AB0 CKHBlockInput
+         12   23 00003AC0 CKHSendString
+         13   24 00003A90 CKHSetKey
+         14   25 000038F0 CTHCreateTextObject
+         15   26 00003900 CTHDeleteTextObject
+         16   27 00003A80 CTHFlushCommands
+         17   28 00003A20 CTHSetBGBorderSize
+         18   29 000039F0 CTHSetBGColor
+         19   2A 00003A40 CTHSetBGVisibility
+         20   2B 000039D0 CTHSetBold
+         21   2C 00003970 CTHSetColor
+         22   2D 00003950 CTHSetFont
+         23   2E 000039D0 CTHSetItalic
+         24   2F 000039A0 CTHSetLocation
+         25   30 00003A60 CTHSetRightJustified
+         26   31 00003910 CTHSetText
+         27   32 00003930 CTHSetVisibility
+         29   33 00003850 CreateInstance
+         31   34 000038C0 DeleteInstance
+         33   35 00004470 FightFish
+         34   36 00004370 FishOnLine
+         37   37 00003E00 GetAbilityID
+         38   38 00003E20 GetAbilityRecast
+         39   39 00003CF0 GetAllianceInfo
+         42   3A 00003BA0 GetCastCountDown
+         43   3B 00003B90 GetCastMax
+         44   3C 00003BB0 GetCastPercent
+         45   3D 00003BC0 GetCastPercentEx
+         46   3E 00003D80 GetChatLine
+         47   3F 00003DD0 GetChatLineCount
+         48   40 00003DA0 GetChatLineEx
+         49   41 00003D60 GetChatLineR
+         50   42 00004300 GetEquippedItemIndex
+         51   43 000043C0 GetFishHP
+         52   44 000043A0 GetFishHPMax
+         53   45 00004410 GetFishID1
+         54   46 00004420 GetFishID2
+         55   47 00004430 GetFishID3
+         56   48 00004440 GetFishID4
+         57   49 000043E0 GetFishOnlineTime
+         58   4A 000043F0 GetFishTimeout
+         59   4B 00004140 GetInventoryItem
+         60   4C 000040E0 GetInventoryMax
+         61   4D 00004240 GetLockerItem
+         62   4E 00004120 GetLockerMax
+         63   4F 00003C90 GetLoginStatus
+         64   50 00004060 GetNPCBit
+         65   51 00004040 GetNPCDistance
+         66   52 00003FC0 GetNPCHPP
+         67   53 00004080 GetNPCHeadingToNPC
+         68   54 00003ED0 GetNPCIcon
+         69   55 00003EF0 GetNPCName
+         70   56 00004020 GetNPCPetID
+         71   57 00003F70 GetNPCPosH
+         72   58 00003F10 GetNPCPosX
+         73   59 00003F30 GetNPCPosY
+         74   5A 00003F50 GetNPCPosZ
+         75   5B 00004000 GetNPCStatus
+         76   5C 00003FE0 GetNPCTP
+         77   5D 00004590 GetNPCTradeInfo
+         78   5E 00003E90 GetNPCType
+         79   5F 00003E70 GetNPCclaimID
+         80   60 00003C80 GetPLayerServerID
+         81   61 00003D30 GetPartyMember
+         82   62 00003D10 GetPartyMembers
+         83   63 00003B70 GetPlayerInfo
+         84   64 00003C30 GetPlayerStatus
+         85   65 00004390 GetRodPosition
+         86   66 00004180 GetSafeItem
+         87   67 000040F0 GetSafeMax
+         88   68 00004280 GetSatchelItem
+         89   69 00004130 GetSatchelMax
+         90   6A 00004660 GetSearchMainJob
+         91   6B 000046A0 GetSearchMainlvl
+         92   6C 000046E0 GetSearchName
+         93   6D 00004630 GetSearchPageCount
+         94   6E 00004680 GetSearchSubJob
+         95   6F 000046C0 GetSearchSublvl
+         96   70 00004620 GetSearchTotalCount
+         97   71 00004640 GetSearchZone
+         98   72 000042F0 GetSelectedItemIndex
+         99   73 000042C0 GetSelectedItemName
+        100   74 000042E0 GetSelectedItemNum
+        101   75 00003DE0 GetSpellRecast
+        102   76 000041C0 GetStorageItem
+        103   77 00004100 GetStorageMax
+        104   78 000040A0 GetTargetInfo
+        105   79 00004200 GetTempItem
+        106   7A 00004110 GetTempMax
+        107   7B 00004320 GetTreasureItem
+        108   7C 00003E40 GetVanaUTC
+        109   7D 00003BE0 GetViewMode
+        110   7E 00003CA0 GetWeatherType
+        111   7F 00003E50 IsNPCclaimed
+        113   80 00003D50 IsNewLine
+        114   81 000045E0 IsSynthesis
+        115   82 00004540 MenuHelp
+        116   83 000044A0 MenuIsOpen
+        117   84 00004500 MenuName
+        118   85 00004520 MenuSelection
+        119   86 00003EB0 NPCIsActive
+        126   87 000045F0 SetCraftItem
+        127   88 00004450 SetFishHP
+        132   89 00003F90 SetNPCPosH
+        133   8A 000045B0 SetNPCTradeInfo
+        135   8B 000040C0 SetTargetName
+        137   8C 00004480 SetTimeOut
+        139   8D 00004570 ShopQuantity
+        140   8E 00004560 ShopQuantityMax
+        141   8F 000037F0 Test
+
+  Summary
+
+        1000 .reloc
+        3000 .rsrc
+       DD000 .text

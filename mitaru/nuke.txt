@@ -1,0 +1,12 @@
+/echo tarutaru\nuke.txt
+/a <t>
+wait 1
+/ma "thunder iv" <t>
+wait 1
+/ma "thunder iii" <t>
+wait 1
+/ma "thunder ii" <t>
+wait 1
+/ma "thunder iv" <bt>
+wait 1
+/ma "thunder iii" <bt>

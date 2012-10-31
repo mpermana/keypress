@@ -1,0 +1,1 @@
+mitaru -loop -find "rift" %%

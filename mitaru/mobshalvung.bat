@@ -1,0 +1,1 @@
+set mobs=phasma,cluster  

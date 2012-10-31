@@ -1,0 +1,1 @@
+mitaru -patrole -146.46,+004.0;-162,-20;-178,24 -patroleTarget c8,db

@@ -1,0 +1,31 @@
+Enter
+Wait 1000
+Enter
+Wait 1000
+Down
+Down
+Down
+/echo  Exchange resistance Credits
+Enter
+Wait 1000
+Enter
+Wait 1000
+Enter
+Wait 1000
+DownArrow
+/echo  Items
+Enter
+Wait 1000
+/echo  Select an item:
+RightArrow
+RightArrow
+/echo  Day Break Soul
+Enter
+Wait 1000
+Enter
+Wait 1000
+/echo  Proceed with exchange: 
+UpArrow
+/echo  Yes
+Enter
+Wait 1000

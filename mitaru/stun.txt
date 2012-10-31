@@ -1,0 +1,7 @@
+/ma stun <bt>
+wait 1
+/ma stun <bt>
+wait 1
+/ma stun <bt>
+wait 1
+/ma stun <bt>

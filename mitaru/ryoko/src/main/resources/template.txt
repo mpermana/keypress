@@ -1,0 +1,10 @@
+--- Select a template ---
+-name @name@ -follow -loop -find @find@ -exec "/a <t>"
+-name @name@ -cast "hasso,third,meditate,sekka,samba ii" 
+-name @name@ -cast "hasso,third eye,meditate,sekkanoki,sengikori,hagakure,tachi: shoha,drain samba ii"
+-name @name@ -cast "battery,diss,drain samba ii"
+-loop -synth recipe\silent.txt
+-loop -eval "target.hp < 20 & tp > 100" -exec "/ws tachi: kasha" <t>
+-cast "drain samba ii,steal,feint,bully,evisceration"
+-name @name@ -cast "drain samba ii,steal,feint,bully,evisceration"
+ -send script\buynpc.txt -loop

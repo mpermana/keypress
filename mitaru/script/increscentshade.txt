@@ -1,0 +1,22 @@
+EnterKey
+Wait 1000
+EnterKey
+Wait 1000
+RightArrow
+DownArrow
+EnterKey
+Wait 1000
+DownArrow
+EnterKey
+Wait 1000
+RightArrow
+RightArrow
+EnterKey
+Wait 1000
+EnterKey
+Wait 1000
+EnterKey
+Wait 1000
+UpArrow
+EnterKey
+Wait 1000

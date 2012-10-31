@@ -1,0 +1,16 @@
+enter
+sleep 3000
+enter
+down
+down
+enter
+sleep 2000
+enter
+# Go to which area's gateway
+# la theine, konschat, tahrongi, vunkerl, misareaux, attohwa, altep
+down 6
+enter
+enter
+sleep 2000
+up
+enter

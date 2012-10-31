@@ -1,0 +1,170 @@
+Microsoft (R) COFF/PE Dumper Version 10.00.30319.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file FFACE.dll
+
+File Type: DLL
+
+  Section contains the following exports for 
+
+    00000000 characteristics
+    4E7B2CB6 time date stamp Thu Sep 22 05:40:22 2011
+        0.00 version
+           1 ordinal base
+         145 number of functions
+         145 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000013A0 ??0FFACE@@QAE@ABV0@@Z
+          2    1 000048A0 ??0FFACE@@QAE@K@Z
+          3    2 000052C0 ??1FFACE@@QAE@XZ
+          4    3 00001560 ??4FFACE@@QAEAAV0@ABV0@@Z
+          6    4 00005F10 ?BlockInput@FFACE@@QAEX_N@Z
+         28    5 00005400 ?CreateTextObject@FFACE@@QAEXPAD@Z
+         30    6 00005490 ?DeleteTextObject@FFACE@@QAEXPAD@Z
+         33    7 00005C40 ?FlushCommands@FFACE@@QAEXXZ
+         37    8 00006190 ?GetArg@FFACE@@QAEXHPAD@Z
+         38    9 00006150 ?GetArgCount@FFACE@@QAEHXZ
+        115    A 00006110 ?IsNewCommand@FFACE@@QAEHXZ
+        123    B 00006010 ?SendString@FFACE@@QAEXPAD@Z
+        124    C 00005A60 ?SetBGBorderSize@FFACE@@QAEXPADM@Z
+        125    D 000059B0 ?SetBGColor@FFACE@@QAEXPADEEEE@Z
+        126    E 00005B00 ?SetBGVisibility@FFACE@@QAEXPAD_N@Z
+        127    F 00005870 ?SetBold@FFACE@@QAEXPAD_N@Z
+        128   10 00005720 ?SetColor@FFACE@@QAEXPADEEEE@Z
+        131   11 00005670 ?SetFont@FFACE@@QAEXPAD0H@Z
+        132   12 00005910 ?SetItalic@FFACE@@QAEXPAD_N@Z
+        133   13 00005E00 ?SetKey@FFACE@@QAEXE_N@Z
+        134   14 000057D0 ?SetLocation@FFACE@@QAEXPADMM@Z
+        137   15 00005BA0 ?SetRightJustified@FFACE@@QAEXPAD_N@Z
+        139   16 00005520 ?SetText@FFACE@@QAEXPAD0@Z
+        141   17 000055D0 ?SetVisibility@FFACE@@QAEXPAD_N@Z
+        145   18 00001380 ?bes@FFACE@@QAEHXZ
+          5   19 00001870 Access
+          7   1A 00001AB0 CCHGetArg
+          8   1B 00001AA0 CCHGetArgCount
+          9   1C 00001A90 CCHIsNewCommand
+         10   1D 00001A50 CKHBlockInput
+         11   1E 00001A70 CKHSendString
+         12   1F 00001A30 CKHSetKey
+         13   20 00001880 CTHCreateTextObject
+         14   21 000018A0 CTHDeleteTextObject
+         15   22 00001A20 CTHFlushCommands
+         16   23 000019C0 CTHSetBGBorderSize
+         17   24 00001990 CTHSetBGColor
+         18   25 000019E0 CTHSetBGVisibility
+         19   26 00001970 CTHSetBold
+         20   27 00001920 CTHSetColor
+         21   28 00001900 CTHSetFont
+         22   29 00001970 CTHSetItalic
+         23   2A 00001950 CTHSetLocation
+         24   2B 00001A00 CTHSetRightJustified
+         25   2C 000018C0 CTHSetText
+         26   2D 000018E0 CTHSetVisibility
+         27   2E 000017B0 CreateInstance
+         29   2F 00001830 DeleteInstance
+         31   30 00002330 FightFish
+         32   31 00002230 FishOnLine
+         34   32 00001C80 GetAbilityID
+         35   33 00001CA0 GetAbilityRecast
+         36   34 00001B80 GetAllianceInfo
+         39   35 00001B00 GetCastCountDown
+         40   36 00001AF0 GetCastMax
+         41   37 00001B10 GetCastPercent
+         42   38 00001B20 GetCastPercentEx
+         43   39 00001C10 GetChatLine
+         44   3A 00001C50 GetChatLineCount
+         45   3B 00001C30 GetChatLineEx
+         46   3C 00001BF0 GetChatLineR
+         47   3D 00002360 GetDialogID
+         48   3E 00002380 GetDialogIndex
+         49   3F 00002370 GetDialogIndexCount
+         50   40 00002390 GetDialogStrings
+         51   41 000021C0 GetEquippedItemIndex
+         52   42 00002280 GetFishHP
+         53   43 00002260 GetFishHPMax
+         54   44 000022D0 GetFishID1
+         55   45 000022E0 GetFishID2
+         56   46 000022F0 GetFishID3
+         57   47 00002300 GetFishID4
+         58   48 000022A0 GetFishOnlineTime
+         59   49 000022B0 GetFishTimeout
+         60   4A 00001FC0 GetInventoryItem
+         61   4B 00001F50 GetInventoryMax
+         62   4C 000020C0 GetLockerItem
+         63   4D 00001F90 GetLockerMax
+         64   4E 00001B60 GetLoginStatus
+         65   4F 00001ED0 GetNPCBit
+         66   50 00001EB0 GetNPCDistance
+         67   51 00001E30 GetNPCHPP
+         68   52 00001EF0 GetNPCHeadingToNPC
+         69   53 00001D50 GetNPCIcon
+         70   54 00001D70 GetNPCName
+         71   55 00001E90 GetNPCPetID
+         72   56 00001DF0 GetNPCPosH
+         73   57 00001D90 GetNPCPosX
+         74   58 00001DB0 GetNPCPosY
+         75   59 00001DD0 GetNPCPosZ
+         76   5A 00001E70 GetNPCStatus
+         77   5B 00001E50 GetNPCTP
+         78   5C 00002450 GetNPCTradeInfo
+         79   5D 00001D10 GetNPCType
+         80   5E 00001CF0 GetNPCclaimID
+         81   5F 00001B50 GetPLayerServerID
+         82   60 00001BC0 GetPartyMember
+         83   61 00001BA0 GetPartyMembers
+         84   62 00001AD0 GetPlayerInfo
+         85   63 00001B40 GetPlayerStatus
+         86   64 00002250 GetRodPosition
+         87   65 00002140 GetSackItem
+         88   66 00001FB0 GetSackMax
+         89   67 00002000 GetSafeItem
+         90   68 00001F60 GetSafeMax
+         91   69 00002100 GetSatchelItem
+         92   6A 00001FA0 GetSatchelMax
+         93   6B 00002520 GetSearchMainJob
+         94   6C 00002560 GetSearchMainlvl
+         95   6D 000025A0 GetSearchName
+         96   6E 000024F0 GetSearchPageCount
+         97   6F 00002540 GetSearchSubJob
+         98   70 00002580 GetSearchSublvl
+         99   71 000024E0 GetSearchTotalCount
+        100   72 00002500 GetSearchZone
+        101   73 000021B0 GetSelectedItemIndex
+        102   74 00002180 GetSelectedItemName
+        103   75 000021A0 GetSelectedItemNum
+        104   76 00001C60 GetSpellRecast
+        105   77 00002040 GetStorageItem
+        106   78 00001F70 GetStorageMax
+        107   79 00001F10 GetTargetInfo
+        108   7A 00002080 GetTempItem
+        109   7B 00001F80 GetTempMax
+        110   7C 000021E0 GetTreasureItem
+        111   7D 00001CC0 GetVanaUTC
+        112   7E 00001B30 GetViewMode
+        113   7F 00001B70 GetWeatherType
+        114   80 00001CD0 IsNPCclaimed
+        116   81 00001BE0 IsNewLine
+        117   82 000024A0 IsSynthesis
+        118   83 00002400 MenuHelp
+        119   84 000023B0 MenuIsOpen
+        120   85 000023C0 MenuName
+        121   86 000023E0 MenuSelection
+        122   87 00001D30 NPCIsActive
+        129   88 000024B0 SetCraftItem
+        130   89 00002310 SetFishHP
+        135   8A 00001E10 SetNPCPosH
+        136   8B 00002470 SetNPCTradeInfo
+        138   8C 00001F30 SetTargetName
+        140   8D 00002340 SetTimeOut
+        142   8E 00002430 ShopQuantity
+        143   8F 00002420 ShopQuantityMax
+        144   90 00001870 Test
+
+  Summary
+
+        1000 .reloc
+        3000 .rsrc
+       13000 .text

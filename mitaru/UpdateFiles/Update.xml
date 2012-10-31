@@ -1,0 +1,10 @@
+<ArrayOfAutoUpdate.AutoUpdateXML xmlns="http://schemas.datacontract.org/2004/07/FFEVOAutoUpdater" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+This file defines what files are to be over written.
+This file is added to the archive uploaded to the forums.
+If this file is missing from the archive ALL files contained in the archive will be over written
+Any file in the archive but not in the users system will be written even if not in this file.
+-->
+		<File Filename="Campah.exe" />
+		<File Filename="FFACE.dll" />
+</ArrayOfAutoUpdate.AutoUpdateXML>

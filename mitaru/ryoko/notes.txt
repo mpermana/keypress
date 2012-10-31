@@ -1,0 +1,1 @@
+http://maven.eclipse.org/nexus/index.html#view-repositories;testing~browsestorage~/org/eclipse/swt/org.eclipse.swt.win32.win32.x86/3.6.2/org.eclipse.swt.win32.win32.x86-3.6.2.jar

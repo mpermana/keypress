@@ -1,0 +1,6 @@
+EnterKey
+sleep 500
+UpArrow
+sleep 100
+EnterKey
+sleep 100
